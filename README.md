@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Project-Management-Collaboration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Project-Management-Collaboration?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Project-Management-Collaboration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Project-Management-Collaboration?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Project-Management-Collaboration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Project-Management-Collaboration?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Project-Management-Collaboration/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -74,9 +74,9 @@ The table below compiles leading cloud project management solutions with verifie
 
 ## 🔓 Open-Source GitHub Projects
 
-The following self-hosted and community-driven project management tools are ranked in descending order by their GitHub star count:
+The following self-hosted and community-driven project management tools are ranked in descending order by their GitHub Stars_Count:
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---|---|---|
 | **[AppFlowy](https://github.com/appflowy-io/AppFlowy)** | [![Stars](https://img.shields.io/github/stars/appflowy-io/AppFlowy?style=social&color=white)](https://github.com/appflowy-io/AppFlowy/stargazers) | Open-source Notion alternative built with Flutter and Rust for offline-first data control, custom database views, Kanban boards, and collaborative document editing. |
 | **[Plane](https://github.com/makeplane/plane)** | [![Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) | Modern open-source project management platform positioned as an extensible Jira and ClickUp alternative. Features work items, sprint Cycles, roadmap Modules, Pages (wikis), and triage workflows. |
@@ -100,7 +100,7 @@ Contributions are welcome! Please help keep this curated list accurate and compr
 2. 🌿 **Create a descriptive branch** (`git checkout -b feature/add-new-tool`).
 3. ✍️ **Add or update an entry** in `README.md` following the established table structure.
    - For SaaS tools: include verified starting tier pricing, explicit free tier / free trial limits, and company valuation or revenue.
-   - For open-source tools: include the official repository link, star badge (`style=social&color=white` linking to stargazers), and concise description.
+   - For open-source tools: include the official repository link, Stars_Badge (`style=social&color=white` linking to stargazers), and concise description.
 4. 🚀 **Submit a Pull Request** with a clear explanation of your additions or changes.
 
 ---
